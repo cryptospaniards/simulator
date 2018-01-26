@@ -1,6 +1,8 @@
 # CS Simulator
 Cryptocurrency Simulator: Invest fake money and play your strategies without risking real money
 
+https://cryptospaniards.com/simulator/
+
 ## Languages
 
 ### Adding a new language
